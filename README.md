@@ -38,7 +38,7 @@ This project aims to detect fuel theft in delivery trucks by monitoring real-tim
 ### 🔹 Installation Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/SiddharthF18/fuel-theft-detection.git
+   git clone https://github.com/SiddharthF18/Fuel_Theft_Detection.git
    cd fuel-theft-detection
    ```
 2. Install dependencies:
